@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on jayele&#39;s blog</title>
-    <link>https://example.com/tags/</link>
+    <link>https://jayele.github.com/tags/</link>
     <description>Recent content in Tags on jayele&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     
-        <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jayele.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://example.com/2021/01/hello-hugo/</link>
+      <link>https://jayele.github.com/2021/01/hello-hugo/</link>
       <pubDate>Fri, 08 Jan 2021 18:38:25 +0800</pubDate>
       
-      <guid>https://example.com/2021/01/hello-hugo/</guid>
+      <guid>https://jayele.github.com/2021/01/hello-hugo/</guid>
       <description>hello hugo </description>
     </item>
     
