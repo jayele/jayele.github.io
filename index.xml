@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jayele&#39;s blog</title>
-    <link>https://jayele.github.com/</link>
+    <link>https://jayele.github.io/</link>
     <description>Recent content on jayele&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 08 Jan 2021 18:38:25 +0800</lastBuildDate>
     
-        <atom:link href="https://jayele.github.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jayele.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://jayele.github.com/2021/01/hello-hugo/</link>
+      <link>https://jayele.github.io/2021/01/hello-hugo/</link>
       <pubDate>Fri, 08 Jan 2021 18:38:25 +0800</pubDate>
       
-      <guid>https://jayele.github.com/2021/01/hello-hugo/</guid>
+      <guid>https://jayele.github.io/2021/01/hello-hugo/</guid>
       <description>hello hugo </description>
     </item>
     
